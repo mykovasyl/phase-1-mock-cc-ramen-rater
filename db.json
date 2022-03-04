@@ -39,6 +39,46 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "newName": "Osaka-Ramen",
+      "newRestaurant": "Suki Suki",
+      "newImage": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "newRating": "12",
+      "newComment": "I wouldn't mind meeting my end by drowning in this one. ",
+      "id": 6
+    },
+    {
+      "newName": "Osaka-Ramen2",
+      "newRestaurant": "Suki Suki",
+      "newImage": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "newRating": "13",
+      "newComment": "I would like thirds please! ",
+      "id": 7
+    },
+    {
+      "newName": "Osaka-Ramen2",
+      "newRestaurant": "Suki Suki",
+      "newImage": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "newRating": "15",
+      "newComment": "Please just work! ",
+      "id": 8
+    },
+    {
+      "newName": "Mykola Vasyl'yev",
+      "newRestaurant": "Suki Suki",
+      "newImage": "https://image.shutterstock.com/image-photo/delicious-ramen-japan-600w-1135797380.jpg",
+      "newRating": "4",
+      "newComment": "My wife said I need to hurry it up.",
+      "id": 9
+    },
+    {
+      "name": "Up Your Net Worth",
+      "restaurant": "Suki Suki",
+      "image": "https://image.shutterstock.com/image-photo/delicious-ramen-japan-600w-1135797380.jpg",
+      "rating": "6",
+      "comment": "Wife keeps calling me, I need to leave, please work so I can go get dinner!! ",
+      "id": 10
     }
   ]
 }
